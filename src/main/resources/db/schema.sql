@@ -1,0 +1,7 @@
+-- CREATE TABLE "POSTS" (
+--                           id UUID primary key,
+--                           title VARCHAR(200) NOT NULL,
+--                           content VARCHAR(1500) NOT NULL,
+--                           comment VARCHAR(500) NOT NULL,
+--                           createDate VARCHAR(20) NOT NULL,
+-- );
